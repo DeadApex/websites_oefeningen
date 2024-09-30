@@ -1,0 +1,24 @@
+caption {
+    caption-side: bottom;
+    padding: 15px;
+}
+
+table {
+    border: solid 1px grey;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: solid 1px grey;
+    padding: 15px;
+    text-align: center;
+}
+
+th {
+    background-color: #020A1D;
+    color: white;
+}
+
+.lijntje {
+    border-top: solid 1px #020A1D;
+}
